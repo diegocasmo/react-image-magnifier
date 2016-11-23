@@ -14,7 +14,7 @@ A react component that accepts a high-res source image and produces a magnifier 
 ```
 
 ```jsx
-var ImageMagnifer = require('react-image-magnifier');
+var ImageMagnifier = require('react-image-magnifier');
 
 var App = React.createClass({
 
